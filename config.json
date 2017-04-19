@@ -1,10 +1,10 @@
 {
   "production":
   {
-    "host": "ec2-54-83-49-44.compute-1.amazonaws.com",
-    "name": "d7skdefllmfg16",
-    "user": "nrhbwhsukqrqum",
-    "password": "9e57ea13942aaba44fbacca771f702e6fd8dd06719175cc0dd5c77f9a8cb4842"
+    "host": "ec2-54-235-168-152.compute-1.amazonaws.com",
+    "name": "d12s2sorg79n6l",
+    "user": "wdvgkqfvudvfoj",
+    "password": "1c5830232f402d9efecc608101be7d0382b44f6823914d5945b136fd14fafd42"
   },
   "db":
   {
