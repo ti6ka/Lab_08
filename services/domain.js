@@ -3,6 +3,7 @@ const request = require('request');
 
 module.exports = (domainRepository, userRepository, errors) =>
 {
+	//
     const BaseService = require('./base');
     const needle = require("needle");
     var Promise = require("bluebird");
