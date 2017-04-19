@@ -1,0 +1,22 @@
+{
+  "production":
+  {
+    "host": "ec2-54-83-49-44.compute-1.amazonaws.com",
+    "name": "d7skdefllmfg16",
+    "user": "nrhbwhsukqrqum",
+    "password": "9e57ea13942aaba44fbacca771f702e6fd8dd06719175cc0dd5c77f9a8cb4842"
+  },
+  "db":
+  {
+    "host": "127.0.0.1",
+    "name": "REST",
+    "user": "root",
+    "password": ""
+  },
+  "env": "dev",
+  "cookie":
+  {
+    "key": "secret key",
+    "auth": "x-access-token"
+  }
+}
