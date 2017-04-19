@@ -5,6 +5,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "assert": "^1.4.1",
     "bluebird": "^3.5.0",
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
@@ -12,12 +13,15 @@
     "ejs": "^2.5.6",
     "express": "^4.14.0",
     "jsonwebtoken": "^7.3.0",
+    "mocha": "^3.2.0",
     "mysql": "^2.11.1",
     "needle": "^1.4.5",
     "path": "^0.12.7",
     "pg": "^6.1.4",
     "request": "^2.81.0",
     "sequelize": "^3.24.1",
-    "serve-favicon": "^2.4.1"
+    "serve-favicon": "^2.4.1",
+    "should": "^11.2.1",
+    "sinon": "^2.1.0"
   }
 }
